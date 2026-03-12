@@ -3,3 +3,8 @@ zmiana 1
 linijka nr 4
 
 linijka nr 3
+
+
+linijka nr 5
+linijka nr 6
+linijka nr 7

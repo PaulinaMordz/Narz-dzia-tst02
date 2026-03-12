@@ -3,3 +3,8 @@ zmiana 1
 linijka nr 4
 
 linijka nr 3
+
+linijka 5
+linijka 7
+
+linijak sjjff
